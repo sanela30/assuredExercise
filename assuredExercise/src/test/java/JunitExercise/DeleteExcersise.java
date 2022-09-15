@@ -28,6 +28,5 @@ public class DeleteExcersise {
 
         System.out.println(statusCode);
 
-
     }
 }
